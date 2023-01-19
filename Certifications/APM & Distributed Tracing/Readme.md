@@ -1,5 +1,5 @@
 # Prova: APM & Distributed Tracing
-## Link para o Guia do Exame APM.
+## [Link para o Guia do Exame APM.](https://www.datadoghq.com/pdf/APM_and_Distributed_Tracing_Fundamentals_Exam_Guide.pdf)
 ### Principais Tópicos
  - Explain the rationale for using APM
  - Understand different tracing architectures
