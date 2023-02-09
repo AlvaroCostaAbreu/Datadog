@@ -1,42 +1,40 @@
 # Prova: APM & Distributed Tracing
 ## [Link para o Guia do Exame APM.](https://www.datadoghq.com/pdf/APM_and_Distributed_Tracing_Fundamentals_Exam_Guide.pdf)
 ### Principais Tópicos
-APM Fundamentals
-	APM Rationale
-	Datadog Approach to APM
-	Tracing Architectures
-	Language Level Differences—Automatic Instrumentation
-	OOTB Tracer vs Community Tracer
-	Tagging
-	Retention Periods for APM Data
-	datadog.com APM & Distributed Tracing Fundamentals Exam Guide 3
-	DATADOG CERTIFICATION EXAM GUIDE
-Application Instrumentation
-	Datadog Tracing Libraries
-	Instrumentation Types
-	Datadog Agent Architecture
-	Sampling vs Retention
-	APM Data Security
-	Trace/Log Correlation
-	Connecting RUM and Traces
-	Profile Collection
-	Deployment Tracking
-Insight Discovery
-	Services
-	Search Syntax
-	Trace Live vs Retained Search
-	Profiler Flame Graphs
-	Deployment Tracking
-	Identifying Slow Endpoints
-	Error Tracking
-	Span Summary
-Visualizing Insights
-	Service Performance Dashboards
-	Generating Metrics
-	Calculating Apdex Scores
-Troubleshooting Application using APM
-	Using Trace Search (during incident)
-	Monitors & Alerting
+- APM Fundamentals
+	- APM Rationale
+	- Datadog Approach to APM
+	- Tracing Architectures
+	- Language Level Differences—Automatic Instrumentation
+	- OOTB Tracer vs Community Tracer
+	- Tagging
+	- Retention Periods for APM Data
+- Application Instrumentation
+	- Datadog Tracing Libraries
+	- Instrumentation Types
+	- Datadog Agent Architecture
+	- Sampling vs Retention
+	- APM Data Security
+	- Trace/Log Correlation
+	- Connecting RUM and Traces
+	- Profile Collection
+	- Deployment Tracking
+- Insight Discovery
+	- Services
+	- Search Syntax
+	- Trace Live vs Retained Search
+	- Profiler Flame Graphs
+	- Deployment Tracking
+	- Identifying Slow Endpoints
+	- Error Tracking
+	- Span Summary
+- Visualizing Insights
+	- Service Performance Dashboards
+	- Generating Metrics
+	- Calculating Apdex Scores
+- Troubleshooting Application using APM
+	- Using Trace Search (during incident)
+	- Monitors & Alerting
 
 ### Cursos Necessários
 
