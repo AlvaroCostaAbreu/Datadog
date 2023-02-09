@@ -1,26 +1,42 @@
 # Prova: APM & Distributed Tracing
 ## [Link para o Guia do Exame APM.](https://www.datadoghq.com/pdf/APM_and_Distributed_Tracing_Fundamentals_Exam_Guide.pdf)
 ### Principais Tópicos
- - Explain the rationale for using APM
- - Understand different tracing architectures
- - Understand language level differences in automatic instrumentation
- - Understand how to instrument applications manually
- - Understand how to use APM features including
-	 - Services
-	 - Search Syntax
-	 - Trace vs Live
-	 - Flame Graphs
-	 - Deployment Tracking
-	 - Error Tracking
- - Visualize insights using
-	 - Service Performance Dashboards
-	 - Generated Metrics
-	 - Apdex Scores
- - Troubleshoot Applications using
-	 - Service Performance Dashboards
-	 - Trace Search
-	 - Monitors & Alerting
-
+APM Fundamentals
+	APM Rationale
+	Datadog Approach to APM
+	Tracing Architectures
+	Language Level Differences—Automatic Instrumentation
+	OOTB Tracer vs Community Tracer
+	Tagging
+	Retention Periods for APM Data
+	datadog.com APM & Distributed Tracing Fundamentals Exam Guide 3
+	DATADOG CERTIFICATION EXAM GUIDE
+Application Instrumentation
+	Datadog Tracing Libraries
+	Instrumentation Types
+	Datadog Agent Architecture
+	Sampling vs Retention
+	APM Data Security
+	Trace/Log Correlation
+	Connecting RUM and Traces
+	Profile Collection
+	Deployment Tracking
+Insight Discovery
+	Services
+	Search Syntax
+	Trace Live vs Retained Search
+	Profiler Flame Graphs
+	Deployment Tracking
+	Identifying Slow Endpoints
+	Error Tracking
+	Span Summary
+Visualizing Insights
+	Service Performance Dashboards
+	Generating Metrics
+	Calculating Apdex Scores
+Troubleshooting Application using APM
+	Using Trace Search (during incident)
+	Monitors & Alerting
 
 ### Cursos Necessários
 
